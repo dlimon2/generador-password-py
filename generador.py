@@ -1,3 +1,6 @@
+## By Daniel Limón <hola@dlimon.net>,
+## como parte del Curso Básico de Python de Platzi.com
+
 import random
 
 def generar_pwd():
